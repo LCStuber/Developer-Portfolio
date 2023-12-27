@@ -13,16 +13,10 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+          Hi, there! I am {new Date().getFullYear() - new Date('2004-03-24').getFullYear()} and currently pursuing a degree in Computer Science at the <a href="https://maua.br/">Instituto Mauá de Tecnologia (IMT)</a>, where I am immersed in a dynamic and challenging academic environment. My passion for technology is a driving force in my academic journey, and I constantly seek new ideas to explore and implement. This fervor extends particularly to the realms of cybersecurity and networking, where my enthusiasm for delving into cutting-edge concepts and solutions knows no bounds.
           <br />
           <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
+          Beyond my academic pursuits, I actively contribute to the IMT community by serving as a mentor and class representative, where I take pride in assisting my peers in their educational endeavors. Additionally, I hold the role of Director of Marketing at Mauá Esports, an esteemed student entity within IMT. This multifaceted involvement not only enhances my leadership skills but also allows me to channel my passion for technology and collaborative spirit into meaningful contributions to both academic and extracurricular spheres.
         </p>
       </div>
     </section>
