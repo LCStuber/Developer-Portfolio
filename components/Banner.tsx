@@ -22,7 +22,7 @@ const Banner = () => {
           👨‍💻
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-        I'm studying Computer Science at <a href="https://maua.br/">IMT</a>, and I'm really into tech.
+        I&apos;m studying Computer Science at <a href="https://maua.br/">IMT</a>, and I&apos;m really into tech.
         Always on the lookout for cool ideas to try out and put into action!
         </p>
         <div className="text-md flex justify-center">
