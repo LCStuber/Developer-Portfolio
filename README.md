@@ -1,4 +1,4 @@
-#THIS PROJECT IS A FORK AUTHORIZED FROM Ibrahim Memon
+# THIS PROJECT IS A FORK AUTHORIZED FROM Ibrahim Memon
 
 # Personal Developer Portfolio 🚀
 
