@@ -1,3 +1,5 @@
+# THIS PROJECT IS A FORK AUTHORIZED FROM Ibrahim Memon
+
 # Personal Developer Portfolio 🚀
 
 [![Site preview](/public/site-preview.png)](https://developer-portfolio-ibrahim-memons-projects.vercel.app/)
