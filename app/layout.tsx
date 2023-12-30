@@ -18,6 +18,7 @@ export const metadata: Metadata = {
     description: "Computer Science Student",
     images: "/OpenGraph.png",
   },
+  other: {'norton-safeweb-site-verification': "GHFMUO5ZFT9K4II-A-Y6OKKHG6N8CTUVQYHU6XRJHM76RB63JNO1V3F4TB0MP02TQQD4OIT3RAT0OZG8GY-1RHU1XL66WTZ55YF70VPLRFCQKBAWL670HELCRBW7Y795"},
 };
 
 export default function RootLayout({

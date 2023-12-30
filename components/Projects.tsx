@@ -24,7 +24,7 @@ const Projects = () => {
                 src="/FirstProject.png"
                 height={150}
                 width={150}
-                alt="WebHR Project"
+                alt="Mauá Salas"
               />
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Mauá Salas</p>
@@ -45,7 +45,7 @@ const Projects = () => {
                 src="/SecondProject.png"
                 height={150}
                 width={150}
-                alt="HireSide"
+                alt="Print Mauá"
               />
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Print Mauá</p>
