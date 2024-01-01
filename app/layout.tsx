@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   description: "My Portfolio applied on the Developer Portfolio template created by Ibrahim Memon",
   keywords: ["Computer Science", "Portfolio", "Computer Science Student", "Leonardo Cazotto Stuber"],
   openGraph: {
-    title: "Leonardo Cazotto Stuber",
-    description: "Computer Science Student",
+    title: "Leonardo Cazotto Stuber | Portfolio",
+    description: "Hi, I'm a Computer Science student at IMT (Instituto Mauá de Tecnologia), and this is my portfolio website!",
     images: "/OpenGraph.png",
   },
   other: {'norton-safeweb-site-verification': "GHFMUO5ZFT9K4II-A-Y6OKKHG6N8CTUVQYHU6XRJHM76RB63JNO1V3F4TB0MP02TQQD4OIT3RAT0OZG8GY-1RHU1XL66WTZ55YF70VPLRFCQKBAWL670HELCRBW7Y795"},
