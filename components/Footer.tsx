@@ -30,7 +30,7 @@ const Footer = () => {
       <p className="text-gray-300 text-center text-sm">
         Loosely designed in Figma and coded in Visual Studio Code by Ibrahim Memon.
         Implemented by Leonardo Cazotto Stuber Built with Next.js
-        and Tailwind CSS, deployed with Vercel. All text is set in the Inter
+        and Tailwind CSS, deployed with AWS Amplify. All text is set in the Inter
         typeface.
       </p>
     </div>
