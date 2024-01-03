@@ -8,11 +8,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://lcstuber.net/"
+    "https://www.lcstuber.net/"
   ),
-  title: "Leonardo's Portfolio",
-  description: "My Portfolio applied on the Developer Portfolio template created by Ibrahim Memon",
-  keywords: ["Computer Science", "Portfolio", "Computer Science Student", "Leonardo Cazotto Stuber"],
+  title: "Leonardo Cazotto Stuber | Portfolio",
+  description: "Hi, I'm a Computer Science student at IMT (Instituto Mauá de Tecnologia), and this is my portfolio website!",
+  keywords: ["LCStuber", "Computer Science", "Portfolio", "Computer Science Student", "Leonardo Cazotto Stuber"],
   openGraph: {
     title: "Leonardo Cazotto Stuber | Portfolio",
     description: "Hi, I'm a Computer Science student at IMT (Instituto Mauá de Tecnologia), and this is my portfolio website!",
