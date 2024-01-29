@@ -35,7 +35,7 @@ const Projects = () => {
             </div>
           </Link>
           <Link
-            href="https://aws.lcstuber.net/"
+            href="https://appprint.maua.br/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
