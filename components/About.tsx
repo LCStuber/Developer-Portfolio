@@ -13,10 +13,10 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          Hi, there! I am {Math.floor((new Date().getTime() - new Date('2004-03-24').getTime()) / (365.25 * 24 * 60 * 60 * 1000))} and currently pursuing a degree in Computer Science at the <a href="https://maua.br/">Instituto Mauá de Tecnologia (IMT)</a>, where I am immersed in a dynamic and challenging academic environment. My passion for technology is a driving force in my academic journey, and I constantly seek new ideas to explore and implement. This fervor extends particularly to the realms of cybersecurity and networking, where my enthusiasm for delving into cutting-edge concepts and solutions knows no bounds.
+          Hi, there! I am {Math.floor((new Date().getTime() - new Date('2004-03-24').getTime()) / (365.25 * 24 * 60 * 60 * 1000))} and passionate about technology and innovation, with experience in leadership and team management in both academic and professional environments. As the HR director of a university graduation committee and president of a student computing organization at the Instituto Mauá de Tecnologia, I have developed strong skills in people management, event organization, and promoting initiatives that positively impact the community.
           <br />
           <br />
-          Beyond my academic pursuits, I actively contribute to the IMT community by serving as a mentor and class representative, where I take pride in assisting my peers in their educational endeavors. Additionally, I hold the role of Director of Marketing at Mauá Esports, an esteemed student entity within IMT. This multifaceted involvement not only enhances my leadership skills but also allows me to channel my passion for technology and collaborative spirit into meaningful contributions to both academic and extracurricular spheres.
+          During High School, I was recognized with the NHS (National Honor Society) title by the University of Missouri. In my academic journey at Instituto Mauá de Tecnologia, I was recognized as the top student, earning a full scholarship. Currently, I lead the tutoring team and represent the IT courses, with certifications in essential areas such as cybersecurity and network infrastructure. I am always seeking new challenges that allow me to apply and expand my knowledge, contributing to digital transformation with security and efficiency.
         </p>
       </div>
     </section>
