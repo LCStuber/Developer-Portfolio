@@ -9,13 +9,36 @@ const Experience = () => {
       <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500 text-1xl">
         EXPLORE NOW
       </p>
+
+      {/* LinkedIn Experience */}
       <div className="container mx-auto 2xl mt-5">
         <div className="flex flex-row justify-between pt-5">
           <p className="text-gray-300">
-            <span className="font-semibold">
-              Instituto Mauá de Tecnologia /
-            </span>{" "}
-            Leader - Tutoring Team
+            <span className="font-semibold">LinkedIn /</span> Central Operations Intern
+          </p>
+          <p className="text-gray-300">Oct 2024 - Present, São Paulo</p>
+        </div>
+        <p className="text-gray-300 pt-5">
+          Participates in global projects focused on enhancing operations, automating processes, and conducting data analysis. Responsible for data cleaning, transformation, and presenting results through interactive dashboards and management reports.
+        </p>
+        <div className="flex-col flex sm:flex-row">
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Data Analysis
+          </div>
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Process Automation
+          </div>
+          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Project Management
+          </div>
+        </div>
+      </div>
+
+      {/* Instituto Mauá de Tecnologia */}
+      <div className="container mx-auto 2xl mt-5">
+        <div className="flex flex-row justify-between pt-5">
+          <p className="text-gray-300">
+            <span className="font-semibold">Instituto Mauá de Tecnologia /</span> Leader - Tutoring Team
           </p>
           <p className="text-gray-300">Mar 2023 - Present, São Caetano do Sul</p>
         </div>
@@ -34,6 +57,8 @@ const Experience = () => {
           </div>
         </div>
       </div>
+
+      {/* Mauá Esports */}
       <div className="container mx-auto 2xl mt-5">
         <div className="flex flex-row justify-between pt-5">
           <p className="text-gray-300">
@@ -56,6 +81,8 @@ const Experience = () => {
           </div>
         </div>
       </div>
+
+      {/* Grupo Ambplan */}
       <div className="container mx-auto 2xl mt-5">
         <div className="flex flex-row justify-between pt-5">
           <p className="text-gray-300">
